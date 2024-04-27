@@ -7,7 +7,7 @@
 
 💬 Let's chat about ```Building projects```, ```Open source```, ```Technology```
 
-📫 Contact me: ajmalajmal.2016@gmail.com, [LinkedIn](https://www.linkedin.com/in/ajmalmohad/), [Twitter](https://twitter.com/ajmalmohad_/)
+📫 Contact me: sreehari.cpy02@gmail.com
 
 ⚡ Fun fact: Dunning–Kruger effect!
 
