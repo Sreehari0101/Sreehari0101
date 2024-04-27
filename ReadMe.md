@@ -9,7 +9,7 @@
 
 📫 Contact me: ajmalajmal.2016@gmail.com, [LinkedIn](https://www.linkedin.com/in/ajmalmohad/), [Twitter](https://twitter.com/ajmalmohad_/)
 
-⚡ Fun fact: I love low-level programming!
+⚡ Fun fact: Dunning–Kruger effect!
 
 
 ## 🌐 Socials:
