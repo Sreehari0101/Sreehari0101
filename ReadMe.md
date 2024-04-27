@@ -3,7 +3,7 @@
 
 
 
-🌱 Passionate about open source and project development.
+🌱 Passionate about collaborating with like-minded developers to solve complex challenges.
 
 💬 Let's chat about ```Building projects```, ```Open source```, ```Technology```
 
