@@ -1,6 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sreehari</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
+
+
+🌱 Passionate about open source and project development.
+
+💬 Let's chat about ```Building projects```, ```Open source```, ```Technology```
+
+📫 Contact me: ajmalajmal.2016@gmail.com, [LinkedIn](https://www.linkedin.com/in/ajmalmohad/), [Twitter](https://twitter.com/ajmalmohad_/)
+
+⚡ Fun fact: I love low-level programming!
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sr.ee.hari__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreehari0101)
 
