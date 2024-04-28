@@ -1,9 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sreehari</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sreehari0101&icon=0&color=12)](https://visitcount.itsvg.in)
-
 
 🌱 Passionate about collaborating with like-minded developers to solve complex challenges.
 
@@ -12,6 +9,10 @@
 📫 Contact me: sreehari.cpy02@gmail.com
 
 ⚡ Fun fact: Dunning–Kruger effect!
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sreehari0101&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
