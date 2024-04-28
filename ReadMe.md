@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sreehari</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=YourID&icon=0&color=12)](https://visitcount.itsvg.in)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreehari0101&label=Profile%20views&color=03dd6d&style=flat" alt="phiiliii" /> </p>
 
 🌱 Passionate about collaborating with like-minded developers to solve complex challenges.
 
