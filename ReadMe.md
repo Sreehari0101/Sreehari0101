@@ -7,9 +7,9 @@
 
 💬 Let's chat about ```Building projects```, ```Open source```, ```Technology```
 
-📫 Contact me: sreehari.cpy02@gmail.com
+📫 Contact me : sreehari.cpy02@gmail.com
 
-⚡ Fun fact: Dunning–Kruger effect!
+⚡ Fun fact : Dunning–Kruger effect!
 
 
 
