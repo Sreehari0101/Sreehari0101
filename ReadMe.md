@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sreehari0101&label=Profile%20Views&color=03dd6d&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sreehari0101&label=Profile%20Views&color=03dd6d&style=flat-square" alt="Profile Views" />
 </p>
 
 ### 👨‍💻 About Me
@@ -46,10 +46,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreehari0101&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Sreehari0101&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Sreehari0101&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -58,4 +60,10 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always exploring.</i>
 </p>
